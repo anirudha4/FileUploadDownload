@@ -1,2 +1,2 @@
 # FileUploadDownload
-Uploading pdf or any file to mysql and retrieving it using jsp servlet
+Upload PDF / any File To MySQL & Retrieve it using JSP servlet.
